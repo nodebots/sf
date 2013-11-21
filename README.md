@@ -7,9 +7,9 @@ Welcome NodeBots of all ages. We meet regularly to build, create, share, and lea
 
 We generally meet on the third Wednesday of the month. Meetups run from 5:30 - 8:30pm. We intentionally start a bit earlier than normal to be family friendly. A typical meetup flows like this:
 
-5:30 Food and Social
-6:00 Build
-8:00 Demos
+- 5:30 Food and Social
+- 6:00 Build
+- 8:00 Demos
 
 ## Values
 
