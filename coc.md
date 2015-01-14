@@ -58,13 +58,18 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 
 ## Contact Info
 
-If you need to report an incident, you can email us at incident@nodebotssf.org, call or text us at (415) 944-4941, or talk to any of the organizers at an event. In addition, you can contact any of the following people directly:
+If you need to report an incident, please call or text us at (415) 944-4941, email us at incident@nodebotssf.org, or talk to any of the organizers at an event. In addition, you can contact any of the following co-organizers directly:
 
-Bryan Hughes, Co-organizer of NodeBots SF
+Emily Rose
+[Insert contact info here]
+
+Kelsey Breseman
+ifoundthemeaningoflife@gmail.com
+https://twitter.com/selkeymoonbeam
+
+Bryan Hughes
 bryan@theoreticalideations.com
 https://twitter.com/nebrius
-
-[INSERT OTHERS HERE]
 
 ## Credit, License, and Attribution
 
