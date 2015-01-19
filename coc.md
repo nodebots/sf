@@ -61,7 +61,7 @@ If you feel you have been falsely or unfairly accused of violating this Code of 
 If you need to report an incident, please call or text us at (415) 944-4941, email us at incident@nodebotssf.org, or talk to any of the organizers at an event. In addition, you can contact any of the following co-organizers directly:
 
 Emily Rose
-[Insert contact info here]
+https://twitter.com/nexxylove
 
 Kelsey Breseman
 ifoundthemeaningoflife@gmail.com
