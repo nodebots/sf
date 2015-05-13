@@ -34,4 +34,5 @@ NodeBots SF is only possible due to the excellent work of the following contribu
 <tr><th align="left">Jacob Groundwater</th><td><a href="https://github.com/0x604">GitHub/0x604</a></td><td><a href="http://twitter.com/0x604">Twitter/@0x604</a></td></tr>
 <tr><th align="left">Bryan Hughes</th><td><a href="https://github.com/bryan-m-hughes">GitHub/bryan-m-hughes</a></td><td><a href="http://twitter.com/nebrius">Twitter/@nebrius</a></td></tr>
 <tr><th align="left">Myles Borins</th><td><a href="https://github.com/thealphanerd">GitHub/thealphanerd</a></td><td><a href="http://twitter.com/the_alpha_nerd">Twitter/@the_alpha_nerd</a></td></tr>
+<tr><th align="left">Kelsey Breseman</th><td><a href="https://github.com/Frijol">GitHub/Frijol</a></td><td><a href="http://twitter.com/SelkeyMoonbeam">Twitter/@SelkeyMoonbeam</a></td></tr>
 </tbody></table>
