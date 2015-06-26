@@ -5,22 +5,25 @@ Welcome NodeBots of all ages. We meet regularly to build, create, share, and lea
 
 ## Schedule
 
-We generally meet on the third Thursday of the month. Meetups run from 5:30 - 8:30pm. We intentionally start a bit earlier than normal to be family friendly. A typical meetup flows like this:
+We generally meet on the third Thursday of the month. Meetups run from 6 - 9pm. A typical meetup flows like this:
 
-- 5:30 Food and Social
-- 6:00 Build
-- 8:00 Demos
+- 6:00 Food and Social
+- 7:00 Build
+- 8:30 Demos
 
 ## Values
 
 NodeBots SF is about doing and participating, rather than traditional face forward talks. We generally have a topic or a project that we focus on. We hack on those projects in small groups and share what we created and what we learned.
+
+We are also committed to creating a safe space for everyone, and have a strict [Code of Conduct](coc.md) that everyone is expected to follow.
 
 ## Get Involved
 
 - Follow [@NodeBotsSF](https://twitter.com/nodebotssf) for updates.
 - [Upcoming schedule](http://www.meetup.com/nodebotssf/). RSVP for the next meetup.
 - Suggest a topic or curate a project: [submit an issue](https://github.com/nodebots/sf/issues).
-- Watch this repo if you're interested in helping organize this NodeBots or getting ideas for starting a NodeBots meetup near you.
+- Watch this repo if you're interested in helping organize this NodeBots meetup or getting ideas for starting a NodeBots meetup near you.
+- Check out our guide on [running an event](running_an_event.md)
 
 ### Contributors
 
