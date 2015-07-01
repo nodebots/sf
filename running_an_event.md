@@ -5,7 +5,7 @@ These instructions are specific to running a NodeBots SF event, although parts o
 
 The first key part is to follow the checklist in the [Event Checklist](#event_checklist) section below. Making sure that everything is in place before the event means a smoother process for organizers, and helping things go smoother on the day of the event itself.
 
-The second key part is to publicize the event well. This means getting on Twitter and advertising the event regularly. It's best to start of slowly when the event is first announced, and ramping up the posting frequency until the day of the event. The week of the event, there should be 1-3 tweets per day about it.
+The second key part is to publicize the event well. This means getting on Twitter and advertising the event regularly. It's best to start of slowly when the event is first announced, and ramping up the posting frequency until the day of the event. The week of the event, there should be about one tweets per day about it. Each tweet should be different, but always make sure to mention the day, speaker, topic, and venue. Each topic doesn't have to be mentioned in each tweet though, and indeed mixing up which are mentioned is a great way to diversify the tweets. Each tweet should always include a link to the meetup page for the event though.
 
 The final key part is to have at least two people helping to run the event the day of. Things can and will go wrong that couldn't be foreseen ahead of time, and having two people there means one can make a last minute run to grab cables, batteries, a WIFI router (we actually had to do that once), etc, while the other person stays at the venue.
 
@@ -23,7 +23,7 @@ Event Checklist:
 - [ ] Sponsor found for hardware: <Calculate 2 weeks prior>, unassigned
 - [ ] Venue and hardware sponsor added to meetup.com sponsors list <Calculate 2 weeks prior>, unassigned
 - [ ] Food and drink: <Calculate 1 week prior>, unassigned
-    - [ ] Will there be a good selection of non-alcoholic drinks provided? A proper selection will include more than just water and a tken bottle of soda
+    - [ ] Will there be a good selection of non-alcoholic drinks provided? A proper selection will include more than just water and a token bottle of soda
     - [ ] Vegetarian options are required, gluten free and vegan are nice to haves.
 - [ ] Hardware purchases reimbursed: <Calculate 1 week prior>, unassigned
 - [ ] Code of Conduct incident reporter test: <Calculate 2 days prior>, unassigned
