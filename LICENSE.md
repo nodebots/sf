@@ -1,0 +1,1 @@
+All content in this repository is distributed under the [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/) unless otherwise specified.
