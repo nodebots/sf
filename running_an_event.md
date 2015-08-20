@@ -24,9 +24,9 @@ Event Checklist:
 - [ ] Hardware ordered (if applicable): <Calculate 2 weeks prior>, unassigned
 - [ ] Sponsor found for hardware: <Calculate 2 weeks prior>, unassigned
 - [ ] Venue and hardware sponsor added to meetup.com sponsors list <Calculate 2 weeks prior>, unassigned
-- [ ] Food and drink: <Calculate 1 week prior>, unassigned
+- [ ] Food and drink confirmed: <Calculate 1 week prior>, unassigned
     - [ ] Will there be a good selection of non-alcoholic drinks provided? A proper selection will include more than just water and a token bottle of soda
-    - [ ] Vegetarian options are required, gluten free and vegan are nice to haves.
+    - [ ] Vegetarian options are required, gluten free and vegan are nice to haves
 - [ ] Hardware purchases reimbursed: <Calculate 1 week prior>, unassigned
 - [ ] Code of Conduct incident reporter test: <Calculate 2 days prior>, unassigned
     - [ ] Send test email to incident@nodebotssf.org and make sure all recipients received the test
