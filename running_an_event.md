@@ -58,3 +58,7 @@ Description of the speaker, what they do, and what we're hacking on.
 
 _We are committed to fostering an inclusive, safe, and welcoming atmosphere at our events. All attendees, speakers, sponsors, and volunteers at this event are required to follow our [code of conduct](https://github.com/nodebots/sf/blob/master/coc.md)._
 ```
+
+You can also go to a past Nodebots SF event, click "Copy this Meetup", and edit the details from there:
+
+![](https://lh3.googleusercontent.com/bfBzUpsdB36empyxZJ-3VqEE1UQ6u2fUP_ZtJD8f21s=w385-h159-no)
